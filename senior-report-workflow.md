@@ -28,7 +28,6 @@ For right now, we're only concerned about adding content. Click the link that sa
 ![image3](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep03.png)
 
 **Step 3) Choosing the Type of Content Model**
-<<<<<<< HEAD
 
 When you add content to Islandora, it will prompt the user to select which type of content they would like to add in a dropdown menu. The types of content can be changed at the collection level, but they should be pre-set. The two default types of content for Senior Report collections are "citation content model" and "thesis content model" 
 
@@ -43,6 +42,8 @@ After selecting the content model, you'll be left with the blank fields for ente
 - more metadata is better; put in as much as you can
 - don't make up any metadata you are unsure of
 - make notes of curious fields, we can sort out [best practices](https://docs.google.com/document/d/18iAgjIYpuX7PVbTdfZCt7ipWEFvM5R_aQdrY6pB-y-A/edit?usp=sharing) as we go
+- try not to navigate away from this window... drupal isn't especially great at remembering what you were doing when you leave a window open, so...
+- ... try to finish each entry in one sitting. 
 
 *A note on Faculty/Departments*
 
@@ -60,10 +61,35 @@ It is worth noting that Islandora allows for historic names to be part of the me
 
 **Step 5) Copyright and "Publication"**
 
+After you fill out the metadata, you'll be asked if you'd like to attach a PDF to the entry. Clicking yes will open up a series of menu items related to the status of the document. 
 
-=======
+![image7](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep07.png)
 
-When you add content to Islandora, it will prompt the user to select which type of content they would like to add in a dropdown menu. The types of content can be changed at the collection level, but they should be pre-set. The two default types of content for Senior Report collections are "citation content model" and "thesis content model" 
->>>>>>> FETCH_HEAD
+Firstly, select the document for upload and click the "upload" button. Below that, you'll see options for **Document version**. For our purposes, all of these documents will be filed under "published"
 
+![image8](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep08.png)
+
+The **use permission** option is to determine who one contacts for usage. Islandora is sort of set up to assume the content is being entered by the author, so you'll have to forgive the, "I own this content", type of language. We'll largely be be selecting the **contact author** option. 
+
+Lastly, there's an option for **certifying** that we have the authority to upload the files. We do. 
+
+After we click the **ingest** button at the bottom, it will pull the content into the collection. 
+
+##Editing Content in Islandora
+
+It's pretty likely that we'll want to edit existing records as we go, or we'll have to make corrections to work we've already ingested. This is a slightly diferent process. To edit a specific item in the repository, navigate to that specific item in the repository and click the "**manage**" button. The management menu will look different.
+
+![image9](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep09.png)
+
+Sorry about the text overlap, we're working on it. 
+
+Click on the **datastreams** button. 
+
+From the datastreams option, we can add and remove content associated with this particular entry. For example, if we want to upload additional PDFs that have, say, copyright agreements, we may do so here by clicking on "add a datastream and following the screens that come up. To **edit metadata**, we'll need to modify the XML created when we made the object originally. That metadata was created using the **MODS schema**. 
+
+So, to edit our metadata, look in the list for the **MODS Record**. You'll see on the right of the table that there is an **edit** button, which takes you back to the metadata entry fields you saw when you originally put content in. Edit the entry, and then save your progress. That's all there is do it. 
+
+**On derivatives**
+
+Islandora creates derivative files for all sorts of things. If you change the uploaded PDF, Islandora won't necessarily create a new thumbnail image or re-index the file's text record. You'll have to create new *derivatives* to do that. For any field where that might be necessary, the right-most field in the table contains a link that says **regenerate** which will update any derivatives of that object. 
 
