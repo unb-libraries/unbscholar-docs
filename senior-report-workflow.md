@@ -28,6 +28,7 @@ For right now, we're only concerned about adding content. Click the link that sa
 ![image3](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep03.png)
 
 **Step 3) Choosing the Type of Content Model**
+<<<<<<< HEAD
 
 When you add content to Islandora, it will prompt the user to select which type of content they would like to add in a dropdown menu. The types of content can be changed at the collection level, but they should be pre-set. The two default types of content for Senior Report collections are "citation content model" and "thesis content model" 
 
@@ -60,5 +61,9 @@ It is worth noting that Islandora allows for historic names to be part of the me
 **Step 5) Copyright and "Publication"**
 
 
+=======
+
+When you add content to Islandora, it will prompt the user to select which type of content they would like to add in a dropdown menu. The types of content can be changed at the collection level, but they should be pre-set. The two default types of content for Senior Report collections are "citation content model" and "thesis content model" 
+>>>>>>> FETCH_HEAD
 
 
