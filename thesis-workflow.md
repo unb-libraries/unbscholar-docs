@@ -106,4 +106,6 @@ Islandora creates derivative files for all sorts of things. If you change the up
 
 #Embargos
 
-It is possible that you will have to upload a document that has some sort of embargo on it. For the time being, embargos need to be set by the system administrator. Let your admin know if you're uploading a thesis with an embargo. They are configured *after the content is uploaded to Islandora*.
+It is possible that you will have to upload a document that has some sort of embargo on it...
+
+![Embargo Field](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/thesis09.png)
