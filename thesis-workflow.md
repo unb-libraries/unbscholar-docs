@@ -111,3 +111,5 @@ It is possible that you will have to upload a thesis or dissertation that has so
 From the **manage** tab of a posted thesis (currently, you have to put the thesis up before you embargo it), select **Embargo** and adjust settings from there.  
 
 ![Embargo Field](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/thesis09.png)
+
+You'll have the option of embargoing the *object* or the *PDF datastream*. For our purposes for now, please embargo the *object*. 
