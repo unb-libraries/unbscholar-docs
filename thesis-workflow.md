@@ -106,6 +106,8 @@ Islandora creates derivative files for all sorts of things. If you change the up
 
 #Embargos
 
-It is possible that you will have to upload a document that has some sort of embargo on it...
+It is possible that you will have to upload a thesis or dissertation that has some sort of **embargo**. An embargo is time period between the submission of the document itself and a later date where the material will be made available. At UNB, we have a 4 year maximum embargo available to graduate students. As of this time, it's been common practice for theses and dissertations to only have embargos placed on *print editions*. Thanks to Islandora, we can place embargos on electronic theses as well. 
+
+From the **manage** tab of a posted thesis (currently, you have to put the thesis up before you embargo it), select **Embargo** and adjust settings from there.  
 
 ![Embargo Field](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/thesis09.png)
