@@ -38,6 +38,8 @@ To add content to this collection – from the directory you are currently sitti
 
 ![Click the "Manage" Tab](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep03.png)
 
+The contents of the Manage tab looks like this: 
+
 ![The Contents of the Manage Tab](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep04.png)
 
 For right now, we're only concerned about adding content. Click the link that says "**+ Add an object to this Collection**". 
