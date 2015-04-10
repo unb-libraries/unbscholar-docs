@@ -48,7 +48,7 @@ When you add content to Islandora, it will prompt the user to select which type 
 
 Select **Senior Report** from the dropdown menu if you're uploading Senior Reports.  
 
-![Selecting Senior Report from the Dropdown](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep04.png)
+![Selecting Senior Report from the Dropdown](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep05.png)
 
 ##Step 5) Metadata Entry
 
@@ -70,7 +70,7 @@ For the purpose of browsing and faceting, it’s important to **populate these f
 
 After you fill out the metadata and clicked **Save**, you'll be asked if you'd like to attach a PDF to the entry. Clicking yes will open up a series of menu items related to the status of the document. 
 
-![The PDF Menu after you click **Yes**](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep07.png)
+![The PDF Menu after you click **Yes**](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep06.png)
 
 Firstly, select the document for upload and click the "upload" button. Below that, you'll see options for **Document version**. For our purposes, all of these documents will be filed under "published"
 
@@ -78,13 +78,17 @@ The **use permission** option is to determine who one contacts for usage. Island
 
 Lastly, there's an option for **certifying** that we have the authority to upload the files. We do. 
 
+It's likely to look a little like this:
+
+![Sample PDF Credentials](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep07.png)
+
 After we click the **ingest** button at the bottom, it will pull the content into the collection. 
 
 #Editing Senior Reports in Islandora
 
 It's pretty likely that we'll want to edit existing records as we go, or we'll have to make corrections to work we've already ingested. This is a slightly different process. To edit a specific item in the repository, navigate to that specific item in the repository and click the "**manage**" button. The management menu will look different.
 
-![Managing Datastreams](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep09.png)
+![Managing Datastreams](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/seniorrep08.png)
 
 Sorry about the text overlap, we're working on it. 
 
