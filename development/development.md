@@ -37,7 +37,7 @@ We can talk about this possible feature at the next implementation committee mee
 > Solves the issue of left sidebar login, prompts users for login where necessary, and doesn't make OA content appear as though login is required.
 
 - **Action Item** // Develop.
-- [ ] Requested in FogBugz, [2010](http://support.lib.unb.ca/default.asp?2010#16882)
+- [x] Requested in FogBugz, [2010](http://support.lib.unb.ca/default.asp?2010#16882)
 - [ ] Resolved in FogBugz
 
 ##"Check for Fulltext" Option
