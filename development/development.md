@@ -70,7 +70,7 @@ https://unbscholar.lib.unb.ca/islandora/object/islandora%3A110/theses
 
 I chose this because it also suggests that our *Theses* module we spent $10,000 on **sort of works**. You'll note that the drop down has a CSV option but selecting it does nothing. You'll also note a sub-dropdown heading thing that says "Bookmarks" because that makes a lot of sense. It's not selectable because of course it isn't.  
 
-**Action Item** // Either fix bookmarks (we should probably contribute to fixing these), or disable them, or at least remove them from the UI for now so that people aren't trying to use them but watching the process fail.
+- **Action Item** // Either fix bookmarks (we should probably contribute to fixing these), or disable them, or at least remove them from the UI for now so that people aren't trying to use them but watching the process fail.
 -  [ ] Requested in FogBugz
 -  [ ] Resolved in FogBugz
 
@@ -161,7 +161,7 @@ That ought to do it. I can update the wording around the form once it's added.
 Ideally, in the long run, if there were a variant title it would be displayed instead of the original. Or, we could choose which to display. I'm not super concerned about this in the meantime, however.
 
 - **Action Items** // create new field.
-- [ ] Requested in FogBugz, [2004](http://support.lib.unb.ca/default.asp?2004)
+- [x] Requested in FogBugz, [2004](http://support.lib.unb.ca/default.asp?2004)
 - [ ] Resolved in FogBugz
 
 ####Labels and Documentation for "Citation" level forms
