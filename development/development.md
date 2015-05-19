@@ -2,8 +2,7 @@
 
 It does dawn on me that I/we should be more diligent at documenting what we need fixed. It's not a trivial list of things, either. Welp, let's get right to it. Here's some things we ought to consider working on as we move forward here with UNB Scholar.
 
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
-- [UNB Scholar Ongoing Development FunStorm](#unb-scholar-ongoing-development-funstorm)
+<!-- TOC depth:6 withLinks:1 -->
 - [New Things](#new-things)
 	- [UNB Scholar "Access Widget"](#unb-scholar-access-widget)
 	- ["Check for Fulltext" Option](#check-for-fulltext-option)
