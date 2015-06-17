@@ -62,5 +62,19 @@ Alternatively, you can click on the folder/collection and look at your URL bar a
 
 ![url bar](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/collectionmove06.png)
 
+###Likely PIDs for this Collection 
+
+I thought I'd sort out some of the gruntwork here and list the PIDs for the collections likely to come up in this specific project. 
+
+| Department | PID | 
+| ---- | ---- |
+| Chemical | 6153 |
+| Civil | 6155 |
+| Electrical | 6151 |
+| Geodesy | 6157 |
+| Geological | 6370 |
+| Mechanical | 6119 |
+| ENG 4025 Multidisciplinary | 6372 |
+
 After you've selected the right url in your **migration dropdown**, click migrate and the content will be moved. That's all there is to it! 
 
