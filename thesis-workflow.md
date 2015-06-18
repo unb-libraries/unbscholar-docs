@@ -113,3 +113,7 @@ From the **manage** tab of a posted thesis (currently, you have to put the thesi
 ![Embargo Field](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/thesis09.png)
 
 You'll have the option of embargoing the *object* or the *PDF datastream*. For our purposes for now, please embargo the *object*. 
+
+<hr />
+
+As usual, if you have any issues please review the [support documentation](https://github.com/unb-libraries/unbscholar-docs/blob/master/support.md) and contact us with as much detail as possible.

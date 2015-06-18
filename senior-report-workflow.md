@@ -103,3 +103,7 @@ So, to edit our metadata, look in the list for the **MODS Record**. You'll see o
 **On derivatives**
 
 Islandora creates derivative files for all sorts of things. If you change the uploaded PDF, Islandora won't necessarily create a new thumbnail image or re-index the file's text record. You'll have to create new *derivatives* to do that. For any field where that might be necessary, the right-most field in the table contains a link that says **regenerate** which will update any derivatives of that object. 
+
+<hr />
+
+As usual, if you have any issues please review the [support documentation](https://github.com/unb-libraries/unbscholar-docs/blob/master/support.md) and contact us with as much detail as possible.

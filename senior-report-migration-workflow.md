@@ -76,5 +76,5 @@ I thought I'd sort out some of the gruntwork here and list the PIDs for the coll
 | Mechanical | 6119 |
 | ENG 4025 Multidisciplinary | 6372 |
 
-After you've selected the right url in your **migration dropdown**, click migrate and the content will be moved. That's all there is to it! 
+After you've selected the right url in your **migration dropdown**, click migrate and the content will be moved. That's all there is to it! As usual, if you have any issues please review the [support documentation](https://github.com/unb-libraries/unbscholar-docs/blob/master/support.md) and contact us with as much detail as possible. 
 
