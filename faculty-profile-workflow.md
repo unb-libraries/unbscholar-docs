@@ -109,6 +109,27 @@ Fill in as much of the content as you can in this metadata field. When done, you
 
 ###Step 6) Submitting a Citation for a Faculty Member
 
+You'll need to navigate to the **Citations** collection. You can do this using the **Islandora Repositories** button while logged in. 
+
+![Click the "Islandora Repository" Link](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/faculty02.png)
+
+From here, you can click on the **Citations** collection. 
+
+![](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/faculty12.png)
+
+You can navigate to the appropriate collection for the faculty member whose content you are uploading. If the collection doesn't exist, you'll need to create it. The appropriate heirarchy for these collections should drill down pretty far. For example:
+
+- Citations
+	- Faculty of Science (Fredericton)
+		- Department of Chemistry (Fredericton)
+			- Faculty Publications
+				- ````name of professor````
+					- citations/records here
+
+If you don't have all of these collections created, you'll need to create them. 
+
+####Step 6.1) Creating Collections for Content
+
 
 
 
