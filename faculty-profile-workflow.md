@@ -130,6 +130,57 @@ If you don't have all of these collections created, you'll need to create them.
 
 ####Step 6.1) Creating Collections for Content
 
+Navigate through the directories until you hit a collection you need to create. Click the **Manage** tab and select **add an object to this collection**.
+
+From the dropdown menu, select **Islandora Collection Content Model**.
+
+![](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/faculty13.png)
+
+You'll be prompted with a follow-up screen: 
+
+![](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/faculty14.png)
+
+Make sure that you **do not enter anything in the PID field** and that you select to **inherit the XACML policy of the collection this new collection sits in**. XACML policies determine access for content to users and you want to make sure those policies are consistent with the existing content in that broader collection. 
+
+Write the name of the new collection in the name field, and any other metadata you are particularly interested in filling out. To date, we have *no best practices* for collection metadata. Name is plenty. Eventually we may want to add more diligent descriptors or controlled vocabular. We are not there yet. 
+
+###Step 7) Adding a Citation
+
+One you are all the way into the collection as far up to the name of the relevant faculty member you are uploading content for, you can upload a citation. To recap, you *should* be this far in: 
+
+- Citations
+	- Faculty of Science (Fredericton)
+		- Department of Chemistry (Fredericton)
+			- Faculty Publications
+				- ````name of professor````
+					- citations/records **here**
+
+Click the **Manage** tab and select **add an object to this collection**. You'll want to select Citation Content Model from the dropdown:
+
+![](https://raw.githubusercontent.com/unb-libraries/unbscholar-docs/master/images/faculty15.png)
+
+> **If you are unable to select this content model from the dropdown, the system adminsitrator will have to add it for you. This is because the current templates in islandora we have do not allow for metadata editor users who aren't using the current administrative interface to manage collection policies and determine what content can be uploaded.**
+
+Once you have the form open, fill it out to the best of your ability. 
+
+> *These forms are not even close to proofed or finalized. We are in the process of editing these per file type but have, to date, been focused on the ETD and Senior Reports collections and fine-tuning them. If you are unsure of what content should go where, you can open up the MODS record and check it against Library of Congress standards to determine what proper metadata should be.*
+
+In order to **properly link faculty to their citation**, the **qualified name** metadata field must match their full Display name in the system as well as include their email prefix in brackets. For example:
+
+- Marc Bragdon (mbragdon)
+
+At the bottom of the form we have a section for UNB Faceting fields. None of these citation forms have been configured to match our controlled vocabulary for senior reports or ETDs yet, so please just leave them be or we'll have an organizational mess on our hands. We'll regularly check these citation forms to ensure that we've caught new uploads, or you can tell us what you've uploaded so we can correct it. This is largely a byproduct of the system not being ready or tested for this activity. 
+
+After the form is filled out, you'll be asked to upload a PDF. If you have one and we have the rights to put it in the repository, please do so. 
+
+That should be it. If you've properly filled out the content and matched the metadata in the citation properly, the work should show up attached to the specific scholar you're entering contact for. 
+
+<hr />
+
+As usual, if you have any issues please review the [support documentation](https://github.com/unb-libraries/unbscholar-docs/blob/master/support.md) and contact us with as much detail as possible. Additionally, you may want to look at other guides for theses and senior reports in Github to get a handle on the workflows we've established for those. They are much more well defined than citation workflows, although citations have a *lot* more potential metadata. 
+
+
+
 
 
 
