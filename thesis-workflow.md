@@ -86,7 +86,7 @@ It's likely to look a little like this:
 
 After we click the **ingest** button at the bottom, it will pull the content into the collection. 
 
-#Editing Senior Reports in Islandora
+#Editing Theses in Islandora
 
 It's pretty likely that we'll want to edit existing records as we go, or we'll have to make corrections to work we've already ingested. This is a slightly different process. To edit a specific item in the repository, navigate to that specific item in the repository and click the "**manage**" button. The management menu will look different.
 
