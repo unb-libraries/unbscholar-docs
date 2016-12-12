@@ -76,7 +76,7 @@ Once the item is saved, I'm going to assume that you folks will be doing your ow
 
 ##Step 7) Repeat
 
-: ) 
+```:)``` 
 
 <hr />
 
