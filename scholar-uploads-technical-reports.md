@@ -40,21 +40,21 @@ You're going to be uploading these to scholar, which is at:
 
 Here's how you login:
 
-![login process](upload1.gif)
+![login process](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads1.gif?raw=true)
 
 After you're logged in, navigate to main directory like so:
 
-![islandora directory](upload2.gif)
+![islandora directory](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads2.gif?raw=true)
 
 ## Step 3 // Go to where the things are going
 
 There are three types of content and they'll have three homes, go to the directory you need:
 
-![navigate to collection](upload3.gif)
+![navigate to collection](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads3.gif?raw=true)
 
 If you need to go back, click the breadcrumb:
 
-![back breadcrumb](upload4.gif)
+![back breadcrumb](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads4.gif?raw=true)
 
 ## Step 4 // Start Ingest
 
@@ -65,7 +65,7 @@ Once you're in the right directory, you can start to add content.
 3. Select **Article** (unless it isn't an article, then click the thing it is).
 4. Get to fillin'.
 
-![add an object](upload5.gif)
+![add an object](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads5.gif?raw=true)
 
 ## Step 5 // Metadatin'
 
@@ -73,11 +73,11 @@ Fill out the metadata to the very best of your ability. Please make sure you fil
 
 Conversely, if there's a drop-down menu that is missing what the type of content you're trying to upload, don't force it! Hold off on that article and let Mike know the content you want to add is missing from the form. Here's an example:
 
-![missing item](upload6.gif)
+![missing item](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads6.gif?raw=true)
 
 In this situation, we have an entry for **Technical Report** but we _definitely don't_ have an entry for **Lecture Note**. Don't, like, go upload a lecture note if it's missing from this list. Don't fudge it. Just let Mike know something is missing and he'll add it. This applies for basically any drop-down in the form if something doesn't show up.
 
-**_This is extra super extra the case if you click a drop-down item and there's nothing in it. This means the system needs to be rebooted and I'd super appreciate it if you'd let Rob or Mike know about it and just totally stop uploading anything until it's fixed, please and thank you so much you're the best keep it up._** That particular problem looks like [this](upload7.png). It will probably happen a lot.
+**_This is extra super extra the case if you click a drop-down item and there's nothing in it. This means the system needs to be rebooted and I'd super appreciate it if you'd let Rob or Mike know about it and just totally stop uploading anything until it's fixed, please and thank you so much you're the best keep it up._** That particular problem looks like [this](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads7.png?raw=true). It will probably happen a lot.
 
 ## Step 6 // Uploadin'
 
@@ -91,7 +91,7 @@ At the bottom of the metadata form you'll see a next button. Please do click it 
     - Conference Proceedings would be listed as "other" and "contact author"
 5. Click the upload button at the bottom.
 
-![uploading](upload8.gif)
+![uploading](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads8.gif?raw=true)
 
 ## Step 7 // Editing
 
@@ -101,9 +101,9 @@ In the event that you make a mistake (we all make mistakes unless we're lying to
 2. Click **Datastreams** from the sub-menu.
 3. Look for the line that says the word "MODS" and follow along that line to the "edit" link.
 4. Select the type of form you want to edit, it'll be whatever you originally recorded.
-5. Get to Editing. 
+5. Get to Editing.
 
-![edit](upload9.gif)
+![edit](https://github.com/unb-libraries/unbscholar-docs/blob/master/images/uploads9.gif?raw=true)
 
 # Thanks for Playing
 
